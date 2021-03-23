@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": ".",
+		},
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			// "titleBar.activeForeground": "#eeeeee",
+			// "titleBar.activeBackground": "#74a960",
+			"titleBar.activeBackground": "#38542d",
+			// "activityBarBadge.foreground": "#eeeeee",
+			// "activityBarBadge.background": "#74a960",
+			"activityBarBadge.background": "#38542d",
+			// "statusBar.foreground": "#eeeeee",
+			// "statusBar.background": "#74a960",
+			"statusBar.background": "#38542d",
+		},
+		"cSpell.words": [
+			"colorcode",
+			"drawpix",
+			"eqeqeq",
+			"lcov",
+			"ledc",
+			"logc",
+			"notmatch",
+			"obniz",
+			"onbutton",
+			"ondata",
+			"onnotmatch",
+			"onmethod",
+			"opniz",
+			"pico",
+			"raspi"
+		],
+	},
+}
